@@ -1,2 +1,2 @@
 # nodeblockerthing
-a s s .
+This will unblock any page.
